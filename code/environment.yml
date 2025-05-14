@@ -1,0 +1,9 @@
+dependencies:
+  - numpy
+  - pandas==2.0.1
+  - matplotlib
+  - scikit-image
+  - ipykernel
+  - napari
+
+
