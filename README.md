@@ -1,6 +1,3 @@
-Sometimes I think but then I forget
-This here is a small introduction for the README file. I should explain what I am doing but honestly.... I dont even know myself what I am doing here. I scammed myself through whole life and now I sit here and to make the best out of it. It.... is.... fabulous!!!!
-
 In this F1-internship at the CCTB I will work trough the "onboarding - base module" which is accessible over Github. 
 It was created to guid new students trough a realistic project (short project). With the help of this guide I should be able to analyze an in-situ sequencing dataset by using the python programming language. 
 The workflow consists of alternating steps of work on the project, which is writing and executing code mostly, but also documentation. After each hopefully logical step, the progress is committed to version control. 
